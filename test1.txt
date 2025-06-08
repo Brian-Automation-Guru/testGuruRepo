@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A4D2-21F7
+
+ Directory of C:\Users\HYPERCELL\Desktop\testProject
+
+06/08/2025  10:53 AM    <DIR>          .
+06/08/2025  10:53 AM    <DIR>          ..
+06/08/2025  10:53 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  66,148,831,232 bytes free
